@@ -123,7 +123,7 @@ matcher("a(b|bb)?bc","ab") = false
 matcher("a(b|bb)?bc","abbbbc") = false
 
 ```
-## Important actions needed
+## Important Actions Needed
 - Please remember to keep your local repo synchronized with your GitHub online repo using `git pull` every time when you start to work.
 - please keep your project synchronized with the assignment repo (I may need to update the assignemnt repo several times) by checking that
 there are no commit your branch is before the Scala-project:main
